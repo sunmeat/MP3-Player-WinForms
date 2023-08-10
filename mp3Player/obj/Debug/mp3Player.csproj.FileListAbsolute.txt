@@ -1,0 +1,62 @@
+D:\Documents\zad C#\mp3Player\mp3Player\bin\Debug\mp3Player.exe.config
+D:\Documents\zad C#\mp3Player\mp3Player\bin\Debug\mp3Player.exe
+D:\Documents\zad C#\mp3Player\mp3Player\bin\Debug\mp3Player.pdb
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.csprojResolveAssemblyReference.cache
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.FormMain.resources
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.Properties.Resources.resources
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.csproj.GenerateResource.Cache
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.exe
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.pdb
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.FormAbout.resources
+D:\Documents\zad C#\mp3Player\mp3Player\bin\Debug\NAudio.dll
+D:\Documents\zad C#\mp3Player\mp3Player\obj\Debug\mp3Player.FormAddSong.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\bin\Debug\mp3Player.exe.config
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.exe
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.pdb
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\bin\Debug\mp3Player.exe
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\bin\Debug\mp3Player.pdb
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.csprojResolveAssemblyReference.cache
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.FormAbout.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.FormAddSong.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.FormMain.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.Properties.Resources.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\mp3Player\obj\Debug\mp3Player.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.exe.config
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.exe
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.pdb
+C:\Users\Asus\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.exe
+C:\Users\Asus\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.pdb
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormAbout.resources
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormAddSong.resources
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormMain.resources
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.Properties.Resources.resources
+C:\Users\Asus\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.csproj.GenerateResource.Cache
+C:\Users\anto\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.exe.config
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.exe
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.pdb
+C:\Users\anto\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.exe
+C:\Users\anto\Desktop\mp3Player\mp3Player\bin\Debug\mp3Player.pdb
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.csprojResolveAssemblyReference.cache
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormAbout.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormAddSong.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.FormMain.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.Properties.Resources.resources
+C:\Users\anto\Desktop\mp3Player\mp3Player\obj\Debug\mp3Player.csproj.GenerateResource.Cache
+D:\Документи\University\C#\TasksC#\mp3Player\mp3Player\bin\Debug\mp3Player.exe.config
+D:\Документи\University\C#\TasksC#\mp3Player\mp3Player\obj\Debug\mp3Player.exe
+D:\Документи\University\C#\TasksC#\mp3Player\mp3Player\obj\Debug\mp3Player.pdb
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\bin\Debug\mp3Player.exe.config
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\bin\Debug\mp3Player.exe
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\bin\Debug\mp3Player.pdb
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.FormAbout.resources
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.FormAddSong.resources
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.FormMain.resources
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.Properties.Resources.resources
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.csproj.CopyComplete
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.exe
+C:\Users\Alex\Downloads\MP3Player-WinForms-master\mp3Player\obj\Debug\mp3Player.pdb
